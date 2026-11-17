@@ -79,6 +79,8 @@ The accompanying Excel file contains the extracted information for all 53 includ
 
 - **Full study extraction table:** `AAI Review 53S Full Data by Rabiul Islam.xlsx`
 
+*The complete Excel file is available for download in the repository's Files section.*
+
 ## Citation
 
 If you find this review useful, please cite:
